@@ -47,10 +47,10 @@ class App extends React.Component {
     return (
       <AppWrapper>
       <Helmet
-        titleTemplate="%s - The Audio DB"
-        defaultTitle="The Audio DB"
+        titleTemplate="%s - The Movew Db"
+        defaultTitle="The Movew Db"
       >
-      <meta name="description" content="A The Audio DB application" />
+      <meta name="description" content="A The Movew Db application" />
       </Helmet>
       <NavBar/>
       <Switch>
